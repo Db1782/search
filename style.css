@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: #28292a;
 }
@@ -73,4 +74,81 @@ body{
     position: relative;
     color: gray;
     left:77%;
+=======
+body{
+    background-color: #28292a;
+}
+#h21{
+    font-size: 100px;
+    font-style: italic;
+    position: absolute;
+    color: aliceblue;
+    left:40%;
+    
+  
+}
+
+#inpt1{
+   position: absolute;
+   top: 42%;
+   left: 25%;
+   width: 650px;
+   height: 50px;
+   border-radius: 25px;
+   background-color: rgba(160, 159, 159, 0.253);
+}
+
+#inpt2{
+    position:relative;
+     margin-top: 24%;
+    left: 38%;
+    border-radius:10px ;
+    height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    background-color: #28292a;
+    width: 150px;
+}
+#inpt3{
+    position: relative;
+    margin-top: 24%;
+    left: 38.5%;
+    border-radius:10px;
+    height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    background-color: #28292a;
+    width: 150px;
+}
+#inpt4{
+    position: relative;
+    margin-top: 24%;
+    left: 44%;
+    border-radius:10px;
+    height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    background-color: #28292a;
+    width: 150px;
+}
+#submit1{
+    color:white;
+    background-color: blue;
+}
+
+#link1{
+    position: relative;
+    color: gray;
+    left:75%;
+}
+#link2{
+    position: relative;
+    color: gray;
+    left:76%;
+}
+#link3{
+    position: relative;
+    color: gray;
+    left:77%;
+>>>>>>> 5866b45 (CS50W Project 0: HTML/CSS)
 }
